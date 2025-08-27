@@ -1,5 +1,5 @@
 CV: Novita Lestari Payung
-Proyek ini adalah halaman CV pribadi untuk Novita Lestari Payung. 
+Proyek ini adalah halaman CV pribadi. 
 Tujuan project ini adalah implementasi dari html dasar yang dipelajari di internship.
 
 Struktur File
