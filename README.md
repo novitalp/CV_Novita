@@ -17,9 +17,6 @@ Cukup klik ganda pada file tersebut, dan browser akan menampilkannya.
 
 Fitur
 
-Responsif (Tanpa CSS): Meskipun tidak menggunakan CSS, 
-struktur HTML semantik membuatnya mudah dibaca di berbagai perangkat.
-
 Aksesibilitas: Penggunaan tag semantik seperti <header>, <main>, <section>, 
 dan tabel dengan <th> memastikan bahwa halaman ini dapat dipahami dengan 
 baik oleh screen reader dan alat bantu lainnya.
